@@ -5,3 +5,4 @@ Python codes for various models
 3. Malaria Model
 4. Intercation Model : Competition model, Prey Predator model
 5. Compartment Model : Drug dosage
+6. Market spread Model : Internal influence, External influence
