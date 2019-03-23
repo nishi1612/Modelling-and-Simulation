@@ -1,4 +1,4 @@
-# CS302-Modelling-and-Simulation
+# Modelling-and-Simulation
 Python codes for various models
 1. SARS model
 2. SIR model
